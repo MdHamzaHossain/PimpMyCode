@@ -12,6 +12,7 @@ This is made to archive some of the guides/technologies that helped me write bet
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 
 ### Super helpful links
 - [quicktype](https://quicktype.io/)
