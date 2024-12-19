@@ -11,5 +11,8 @@ This is made to archive some of the guides/technologies that helped me write bet
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=yandeu.five-server)
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-
+### Super helpful links
+- [quicktype](https://quicktype.io/)
+- [Link collection ✨](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
